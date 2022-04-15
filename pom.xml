@@ -91,7 +91,7 @@
         <sundrio.version>0.40.1</sundrio.version>
         <fabric8.kubernetes-client.version>5.12.0</fabric8.kubernetes-client.version>
         <fabric8.openshift-client.version>5.12.0</fabric8.openshift-client.version>
-        <fabric8.kubernetes-model.version>5.12.0</fabric8.kubernetes-model.version>
+        <fabric8.kubernetes-model.version>5.12.1</fabric8.kubernetes-model.version>
         <fabric8.zjsonpatch.version>0.3.0</fabric8.zjsonpatch.version>
         <vertx.version>4.2.4</vertx.version>
         <vertx-junit5.version>4.2.4</vertx-junit5.version>
