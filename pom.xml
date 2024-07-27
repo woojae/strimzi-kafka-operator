@@ -89,19 +89,19 @@
         <jacoco.version>0.7.9</jacoco.version>
         <maven-jar-plugin.version>3.1.0</maven-jar-plugin.version>
         <sundrio.version>0.40.1</sundrio.version>
-        <fabric8.kubernetes-client.version>5.12.0</fabric8.kubernetes-client.version>
+        <fabric8.kubernetes-client.version>6.0.0</fabric8.kubernetes-client.version>
         <fabric8.openshift-client.version>5.12.0</fabric8.openshift-client.version>
         <fabric8.kubernetes-model.version>5.12.0</fabric8.kubernetes-model.version>
         <fabric8.zjsonpatch.version>0.3.0</fabric8.zjsonpatch.version>
-        <vertx.version>4.2.4</vertx.version>
+        <vertx.version>4.4.2</vertx.version>
         <vertx-junit5.version>4.2.4</vertx-junit5.version>
         <vertx.kafka.client>4.2.4</vertx.kafka.client>
         <log4j.version>2.17.2</log4j.version>
         <hamcrest.version>2.2</hamcrest.version>
         <valid4j.version>1.1</valid4j.version>
-        <fasterxml.jackson-core.version>2.12.6</fasterxml.jackson-core.version>
-        <fasterxml.jackson-databind.version>2.12.6.1</fasterxml.jackson-databind.version>
-        <fasterxml.jackson-dataformat.version>2.12.6</fasterxml.jackson-dataformat.version>
+        <fasterxml.jackson-core.version>2.15.0</fasterxml.jackson-core.version>
+        <fasterxml.jackson-databind.version>2.15.0</fasterxml.jackson-databind.version>
+        <fasterxml.jackson-dataformat.version>2.15.0</fasterxml.jackson-dataformat.version>
         <fasterxml.jackson-annotations.version>2.12.6</fasterxml.jackson-annotations.version>
         <kafka.version>3.1.0</kafka.version>
         <!-- keep in-sync with dataformat-yaml -->
